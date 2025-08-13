@@ -4,7 +4,7 @@
 
 ---
 
-**Note:** This repository contains DevOps interview questions and answers. Please check the different sections for specific topics like Docker, Kubernetes, CI/CD, etc.
+**Note:** IQ. Please check the different sections for specific topics like Docker, Kubernetes, CI/CD, etc.
 
 ### Table of Contents
 
