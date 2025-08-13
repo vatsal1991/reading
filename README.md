@@ -1,4 +1,4 @@
-# DevOps Interview Questions & Answers
+# IQ
 
 > Click :star: if you like the project. Pull Requests are highly appreciated.
 
